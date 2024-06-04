@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\User\Desktop\project\project\bin\Debug\project.exe
+C:\Users\User\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\User\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form2.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form3.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form4.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form5.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form6.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form7.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\User\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\project\obj\Debug\project.exe
+C:\Users\User\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\User\Desktop\project\project\obj\Debug\project.Form8.resources
+C:\Users\User\Downloads\project (2)\project\project\bin\Debug\project.exe.config
+C:\Users\User\Downloads\project (2)\project\project\bin\Debug\project.exe
+C:\Users\User\Downloads\project (2)\project\project\bin\Debug\project.pdb
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form1.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form2.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form3.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form4.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form5.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form6.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form7.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Form8.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.exe
+C:\Users\User\Downloads\project (2)\project\project\obj\Debug\project.pdb
